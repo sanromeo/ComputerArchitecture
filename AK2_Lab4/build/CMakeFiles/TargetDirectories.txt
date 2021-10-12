@@ -1,0 +1,4 @@
+/home/romeo/AK2_Lab4/build/CMakeFiles/rebuild_cache.dir
+/home/romeo/AK2_Lab4/build/CMakeFiles/calculator.dir
+/home/romeo/AK2_Lab4/build/CMakeFiles/edit_cache.dir
+/home/romeo/AK2_Lab4/build/CMakeFiles/main.dir
